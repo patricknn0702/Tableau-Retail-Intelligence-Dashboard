@@ -1,4 +1,5 @@
-# Tableau-Retail-Intelligence-Dashboard
+# Tableau-Retail-Intelligence-Dashboard 
+Tableau Public: https://public.tableau.com/app/profile/patrick.nguyen1893/viz/NielsenIQCaseVisualization-Liwayway-PatrickNguyen/OverallChannelContribution
 # Retail Intelligence Dashboard: Benchmarking Snack Brands in Vietnam
 
 This project explores the retail performance of Liwayway compared to its top competitors, Orion and PEP, using NielsenIQ retail audit data from 2018 to 2020. Built in Tableau, the dashboard visualizes brand performance across regions and retail channels, offering actionable insights for commercial growth, distribution, and strategic allocation.
